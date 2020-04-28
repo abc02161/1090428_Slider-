@@ -3,7 +3,6 @@ import SpriteKit
 
 class ViewController: UIViewController {
     
-    //@IBOutlet weak var circleImageView: UIImageView!
     @IBOutlet weak var cupidImageView: UIImageView!
     @IBOutlet weak var label: UILabel!
     @IBOutlet weak var shootImageView: UIImageView!
